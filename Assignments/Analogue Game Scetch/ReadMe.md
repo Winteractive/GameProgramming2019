@@ -9,7 +9,8 @@ Goda objekt-orienterade principer ska användas vid framtagande av spelkoncept o
 
 Inlämning görs i PDF format och skickas till max@winteractive.se
 
-PDF: 
+PDF:
+
 Kort beskrivning av spelkoncept (100 tecken)
 
 Längre beskrivning (600 tecken)
