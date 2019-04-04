@@ -11,7 +11,9 @@ Inlämning görs i PDF format och skickas till max@winteractive.se
 
 PDF: 
 Kort beskrivning av spelkoncept (100 tecken)
+
 Längre beskrivning (600 tecken)
+
 3+ skisser av spelmekanik(er)
 
 Mail ska ha ämne: GP18 [FÖR- OCH EFTERNAMN] Analog Spelskiss
