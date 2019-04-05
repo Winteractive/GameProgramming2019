@@ -1,1 +1,1 @@
-Lessons will become avaliable here as 
+Lessons will become avaliable here
