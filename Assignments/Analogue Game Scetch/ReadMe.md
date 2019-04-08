@@ -1,4 +1,9 @@
-**Analog Spelskiss:**
+# Slides
+https://docs.google.com/presentation/d/1rHTw2a3Ai0E4PvuPyIlnRjoz4qkhhwmlIRgMFa-MTFA/edit?usp=sharing
+
+
+
+# Analog Spelskiss:
 
 Studenten ska beskriva sitt spelkoncept med en kortare och en längre text. Fokus ligger på genomförbarhet avseende tid och resurser. Utöver det skrivna förväntas studenten förtydliga sitt spelkoncept med hjälp av skisser
 
