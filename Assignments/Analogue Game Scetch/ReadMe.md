@@ -27,4 +27,4 @@ Mail ska ha ämne: GP18 [FÖR- OCH EFTERNAMN] Analog Spelskiss
 
 **Deadline:**
 
-9/4 kl 18:00
+9/4 kl 16:00
