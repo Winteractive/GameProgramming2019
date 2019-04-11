@@ -12,6 +12,11 @@ https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg
 https://www.youtube.com/user/Cercopithecan
 
 
+**Shortcuts for VS**
+
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+
 **Energy refiller**
 
 https://www.youtube.com/willterrell
