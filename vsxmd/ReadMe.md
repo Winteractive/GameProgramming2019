@@ -8,7 +8,6 @@
   - [number](#F-Comments-number 'Comments.number')
   - [Function_C()](#M-Comments-Function_C 'Comments.Function_C')
   - [Function_Example_And_Code()](#M-Comments-Function_Example_And_Code 'Comments.Function_Example_And_Code')
-  - [Function_Example_And_Code_Highlighted()](#M-Comments-Function_Example_And_Code_Highlighted 'Comments.Function_Example_And_Code_Highlighted')
   - [Function_List()](#M-Comments-Function_List 'Comments.Function_List')
   - [Function_Para()](#M-Comments-Function_Para 'Comments.Function_Para')
   - [Function_Param(integer,floatingPoint,boolean)](#M-Comments-Function_Param-System-Int32,System-Single,System-Boolean- 'Comments.Function_Param(System.Int32,System.Single,System.Boolean)')
@@ -79,26 +78,6 @@ class Comments : Monobehaviour
        // does nothing but call itself
     }
 }
-```
-
-<a name='M-Comments-Function_Example_And_Code_Highlighted'></a>
-### Function_Example_And_Code_Highlighted() `method`
-
-##### Parameters
-
-This method has no parameters.
-
-##### Example
-
-This sample shows how to call the Function_Code() method.
-
-```
-<code lang="javascript">
-                function test()
-                {
-                    console.log("notice the blank line before this function?");
-                }
-            </code>
 ```
 
 <a name='M-Comments-Function_List'></a>
