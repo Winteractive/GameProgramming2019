@@ -4,6 +4,8 @@
 ## Contents
 
 - [AnotherScript](#T-AnotherScript 'AnotherScript')
+- [BreakPoints](#T-BreakPoints 'BreakPoints')
+  - [BreakPointLoop()](#M-BreakPoints-BreakPointLoop 'BreakPoints.BreakPointLoop')
 - [Comments](#T-Comments 'Comments')
   - [number](#F-Comments-number 'Comments.number')
   - [Function_C()](#M-Comments-Function_C 'Comments.Function_C')
@@ -28,7 +30,29 @@
 
 ##### Summary
 
-The summary for another script
+The summary for another script version 02
+
+<a name='T-BreakPoints'></a>
+## BreakPoints `type`
+
+##### Namespace
+
+
+
+##### Summary
+
+Class showing breakpoint functionality
+
+<a name='M-BreakPoints-BreakPointLoop'></a>
+### BreakPointLoop() `method`
+
+##### Summary
+
+Loops through for loop and shows a break when ` reaches 25`
+
+##### Parameters
+
+This method has no parameters.
 
 <a name='T-Comments'></a>
 ## Comments `type`
