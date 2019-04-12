@@ -93,7 +93,7 @@ This method has no parameters.
 This sample shows how to call the Function_Code() method.
 
 ```
-<code lang="C#">
+<code lang="javascript">
                 function test()
                 {
                     console.log("notice the blank line before this function?");
