@@ -70,7 +70,7 @@ This method has no parameters.
 
 This sample shows how to call the Function_Code() method.
 
-```
+```C#
 class Comments : Monobehaviour 
 {
     public void Function_Example_And_Code() 
