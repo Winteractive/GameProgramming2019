@@ -3,6 +3,7 @@
 
 ## Contents
 
+- [AnotherScript](#T-AnotherScript 'AnotherScript')
 - [Comments](#T-Comments 'Comments')
   - [number](#F-Comments-number 'Comments.number')
   - [Function_C()](#M-Comments-Function_C 'Comments.Function_C')
@@ -17,6 +18,17 @@
   - [Function_SeeAlso()](#M-Comments-Function_SeeAlso 'Comments.Function_SeeAlso')
   - [Function_cref()](#M-Comments-Function_cref 'Comments.Function_cref')
   - [NewFunc(i,b)](#M-Comments-NewFunc-System-Int32,System-Boolean- 'Comments.NewFunc(System.Int32,System.Boolean)')
+
+<a name='T-AnotherScript'></a>
+## AnotherScript `type`
+
+##### Namespace
+
+
+
+##### Summary
+
+The summary for another script
 
 <a name='T-Comments'></a>
 ## Comments `type`
