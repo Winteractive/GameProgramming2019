@@ -34,7 +34,7 @@ Win & lose states
 
 Aktörer & saker
 
-Goals (Short, Medium & longterm)
+Goals (Short, Medium & Long term)
 
 
 # Formatering
