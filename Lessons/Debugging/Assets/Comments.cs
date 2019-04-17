@@ -60,6 +60,7 @@ public class Comments : MonoBehaviour
     /// <param name="boolean">boolean description here</param>
     public void Function_Param(int integer, float floatingPoint, bool boolean)
     {
+
     }
 
     /// <summary>DoWork is a method in the TestClass class.
@@ -117,5 +118,17 @@ public class Comments : MonoBehaviour
     {
 
     }
+
+
+    /// <summary>
+    /// A test function to show XML syntax
+    /// </summary>
+    /// <param name="nmbr">any whole number</param>
+    /// <returns>the number parameter plus 1</returns>
+    public int ReturnANumberLargerThan(int nmbr)
+    {
+        return number++;
+    }
+
 
 }
